@@ -1,0 +1,21 @@
+Just follow this steps-
+1. Create a new Asp.Net project.
+2. Design the project with Label, TextBox, DropdownList, radiobuttonlist, checkbox and button control.
+3. Create database and table in SQL Server.
+4. Connect sql server with visual studio.
+5. Write code to execute CRUD operation Insert, Delete, Update and Search.
+
+Prerequisites.
+You should have installed SQL server and visual studio. you can use SQL server integrated with visual studio instead of SQL Server management studio.
+
+
+This tutorial also covered-
+1. Creating new asp.net project in visual studio.
+2. Creating SQL server database and table in SQL server.
+3. Creating method in vb.net.
+4. Calling method in button click_event.
+5. Using method in page_load event.
+6. Place connectionSting out of event.
+7. Initializing connectionSting in all event.
+8. How to load data in GridView.
+9. How to get data from SQL server database to textBox and dropdownList.
